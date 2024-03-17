@@ -1,5 +1,5 @@
 - HTML5, CSS unlocked
-- C# unlocked
+- C++ unlocked
 - I’m currently learning Python
 - I'm currently learning JavaScript
 
