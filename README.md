@@ -4,10 +4,12 @@ Sou estudante de Engenharia de Software e por aqui listo meus desenvolvimentos.
 
 Linguagens que utilizo:
 
+
 Front-End
 - HTML5, CSS
 
-  Back-End 
+
+Back-End 
 - JavaScript
 - C++ 
 - Python
