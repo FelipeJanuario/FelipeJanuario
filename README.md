@@ -6,7 +6,8 @@ Linguagens que utilizo:
 
 
 Front-End
-- HTML5, CSS
+- HTML5
+- CSS
 
 
 Back-End 
