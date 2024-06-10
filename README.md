@@ -16,7 +16,7 @@ Back-End
 - Python
 - SQL
 
-  Possuo familiaridade com metodologias ágeis, sendo elas SCRUM e KanBan
+  Possuo experiência com metodologias ágeis, sendo elas SCRUM e KanBan
 
 
 
