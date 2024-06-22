@@ -16,7 +16,8 @@ Back-End
 - Python
 - SQL
 
-  Possuo experiência com metodologias ágeis, sendo elas SCRUM e KanBan
+  Possuo experiência com metodologias ágeis, sendo elas SCRUM e KanBan.
+  Alucinado por técnologia, tenho como foco colaborar e aprender de forma a sempre evoluir.
 
 
 
