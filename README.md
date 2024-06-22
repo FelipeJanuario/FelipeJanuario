@@ -15,6 +15,7 @@ Back-End
 - C++ 
 - Python
 - SQL
+- Java
 
   Possuo experiências com metodologias ágeis, sendo elas SCRUM e KanBan.
   
