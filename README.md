@@ -17,6 +17,7 @@ Back-End
 - SQL
 
   Possuo experiências com metodologias ágeis, sendo elas SCRUM e KanBan.
+  
   Alucinado por técnologia, tenho como foco colaborar e aprender de forma a sempre evoluir.
 
 
