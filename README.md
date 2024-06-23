@@ -1,6 +1,6 @@
 Olá, me chamo Luiz Felipe.
 
-Sou estudante de Engenharia de Software e por aqui listo meus desenvolvimentos.
+Sou desenvolvedor de sistemas e estudante de Engenharia de Software e por aqui listo meus desenvolvimentos.
 
 Linguagens que utilizo:
 
