@@ -19,7 +19,7 @@ Back-End
 
   Possuo experiências com metodologias ágeis para desenvolvimento e administracao de sistemas, sendo elas SCRUM e KanBan.
   
-  Alucinado por técnologia, minha prioridade é colaborar e aprender de forma a sempre evoluir.
+  Apaixonado por técnologia, minha prioridade é colaborar e aprender de forma a sempre evoluir.
 
 
 
