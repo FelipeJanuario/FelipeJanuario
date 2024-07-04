@@ -17,7 +17,7 @@ Back-End
 - SQL
 - Java
 
-  Possuo experiências com metodologias ágeis para desenvolvimento e administracao de sistemas, sendo elas SCRUM e KanBan.
+  Possuo experiências com metodologias ágeis para desenvolvimento de sistemas, sendo elas SCRUM e KanBan.
   
   Apaixonado por técnologia, minha prioridade é colaborar e aprender de forma a sempre trazer resultados.
 
