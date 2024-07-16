@@ -17,7 +17,7 @@ Back-End
 - SQL
 - Java
 
-  Possuo experiências com metodologias ágeis para desenvolvimento de sistemas, sendo elas SCRUM, KanBan. Familiaridade de codificação por modularização.
+  Possuo experiências com metodologias ágeis para desenvolvimento de sistemas, sendo elas SCRUM, KanBan e familiaridade de codificação por modularização.
   
   
   Apaixonado por técnologia, minha prioridade é colaborar e aprender com o intuito de trazer resultados.
