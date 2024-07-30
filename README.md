@@ -8,10 +8,11 @@ Linguagens que utilizo:
 Front-End
 - HTML5
 - CSS
+- JavaScript
+- React
 
 
 Back-End 
-- JavaScript
 - C++ 
 - Python
 - SQL
