@@ -17,6 +17,7 @@ Back-End
 - Python
 - SQL
 - Java
+- NodeJS
 
   Possuo experiências com metodologias ágeis para desenvolvimento de sistemas, sendo elas SCRUM, KanBan e familiaridade de codificação por modularização.
   
